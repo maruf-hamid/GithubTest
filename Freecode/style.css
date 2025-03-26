@@ -2,3 +2,17 @@ body{
     padding: 25%;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
+
+a{
+    color: rgb(0, 0, 255);
+    cursor: pointer;
+}
+a:visited{
+    color: rgb(38, 117, 181);
+}
+a:hover{
+    color:rgb(0, 0, 255, 0.8);
+}
+a:active{
+    color: red;
+}
