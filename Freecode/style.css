@@ -1,22 +1,4 @@
-*{
-    margin: 0px;
-    padding: 0px;
-    box-sizing: border-box;
-}
-.container{
-    border: 2px dashed red;
-    font-size: 2rem;
-    margin: 1.5em;
-    padding: 2em;
-}
-
-.circle{
-    width: 100px;
-    height:100px;
-    background-color: gold;
-    margin: 3rem auto;
-    border: 2px solid black;
-    border-radius: 50px;
-    outline: 2px solid red;
-    outline-offset: 0.25rem;
+body{
+    padding: 25%;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
