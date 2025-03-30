@@ -1,0 +1,8 @@
+.column{
+    columns: 4 250px;
+    column-rule: 1px solid black;
+}
+
+p{
+    margin-top: 0;
+}
