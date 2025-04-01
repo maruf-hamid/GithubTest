@@ -1,0 +1,44 @@
+body{
+    margin: 0;
+    padding:0;
+    box-sizing: border-box;
+}
+section{
+    height: 100vh;
+}
+.blue{background-color: blue}
+.red{background-color: red}
+.green{background-color: green}
+
+header, footer{
+    color: white;
+    text-align: center;
+    height: 50px;
+}
+
+header{
+    position: sticky;
+    top: 0;
+    font-size: 2rem;
+}
+footer{
+    position: fixed;
+    bottom: 0;
+    background-color: black;
+    width: 100%;
+    font-size: 1.5rem;
+}
+
+a:visited {
+    color: #fff;
+ }
+ .social{
+    position: fixed;
+    top: 30%;
+    font-size: inherit;
+    background-color: royalblue;
+    color: white;
+    padding: 0.75rem;
+    z-index:1;
+ }
+
