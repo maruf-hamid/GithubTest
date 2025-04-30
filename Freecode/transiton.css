@@ -3,9 +3,16 @@
     height: 40vh;
     width: 80vw;
 }
+.transition{
+    height: 10vh;
+    width: 20vw;
+    background-color: mediumaquamarine;
+    transition: transform 1s ease-in;
 
-.box{
-    background-color: mediumaquamarine
-    height: 20vh;
-    width: 30vw;
+    
 }
+
+.transition:hover{
+    transform: translateX(150%) translateY(100%);
+}
+
