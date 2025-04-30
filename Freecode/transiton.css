@@ -1,0 +1,11 @@
+.container{
+    background-color: aqua;
+    height: 40vh;
+    width: 80vw;
+}
+
+.box{
+    background-color: mediumaquamarine
+    height: 20vh;
+    width: 30vw;
+}
